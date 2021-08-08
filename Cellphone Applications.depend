@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1595667161 source:c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\camera_imp.cpp
+	<iostream>
+	"Camera_head.h"
+
+1595667161 c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\camera_head.h
+	<iostream>
+
+1595669270 source:c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\contacts_imp.cpp
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	"Contacts_head.h"
+
+1595669270 c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\contacts_head.h
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+
+1595669270 source:c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\mail_imp.cpp
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	"Mail_head.h"
+
+1595669270 c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\mail_head.h
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+
+1595670880 source:c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	<ctime>
+	<vector>
+	"Contacts_head.h"
+	"SMS_head.h"
+	"Mail_head.h"
+	"Otherapps_head.h"
+	"Camera_head.h"
+	"Snake_head.h"
+
+1595669271 c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\sms_head.h
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+
+1595667161 c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\otherapps_head.h
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<string>
+	<math.h>
+
+1595667161 c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\snake_head.h
+	<iostream>
+	<windows.h>
+	<vector>
+	<conio.h>
+
+1595667162 source:c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\otherapps_imp.cpp
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<string>
+	<math.h>
+	"Otherapps_head.h"
+
+1595669271 source:c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\sms_imp.cpp
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	"Contacts_head.h"
+	"SMS_head.h"
+
+1595667161 source:c:\users\suriya_local\desktop\sem 2\oc lab\cellphone applications\snake_imp.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"Snake_head.h"
+
